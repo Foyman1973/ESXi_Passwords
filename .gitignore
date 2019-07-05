@@ -1,0 +1,11 @@
+*.trace
+*.dat
+*.txt
+*.log
+PassMgmt.ps1
+Config/options/add_pwd.ps1
+Config/options/del_pwd.ps1
+Config/options/hint_pwd.ps1
+Config/options/set.ps1
+Config/options/audit.ps1
+PWD_Maint.ps1
